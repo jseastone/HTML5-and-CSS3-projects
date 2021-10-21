@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<style>
+	.My_Color {
+	background-color: white;
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: small;
+	}
+<p class="My_Color">This paragraph is written in my color!</p>
+</style>
